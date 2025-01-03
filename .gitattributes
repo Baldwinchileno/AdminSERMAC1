@@ -1,0 +1,10 @@
+# Normalizar finales de línea
+* text=auto
+
+# Configuración específica para binarios
+*.dll binary
+*.exe binary
+*.pdb binary
+*.zip binary
+*.png binary
+*.jpg binary
